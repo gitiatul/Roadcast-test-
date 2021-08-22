@@ -23,3 +23,15 @@ https://github.com/gitiatul/Flask-app-with-2-endpoints-PostgreSQL-and-MySQL-
 
 # Angular app
 
+https://github.com/gitiatul/Date-time-through-service
+
+![Capture](https://user-images.githubusercontent.com/42464377/130354842-c43ccc26-45fb-4b22-b63a-dbba97dfe43c.PNG)
+
+#
+
+#
+#
+
+![Capture2](https://user-images.githubusercontent.com/42464377/130354852-7e01da5c-30ff-42a3-95b8-dda349aeb375.PNG)
+
+
